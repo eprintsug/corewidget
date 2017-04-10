@@ -1,5 +1,3 @@
-# corewidget
+# corewidget_bazaar
 
-http://bazaar.eprints.org/370/
-
-http://core.ac.uk/
+This is the last version of the corewidget plugin (www.core.ac.uk)
